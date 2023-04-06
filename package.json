@@ -1,12 +1,14 @@
 {
-  "name": "mail",
-  "version": "0.0.0",
-  "devDependencies": {
-    "wrangler": "^2.14.0"
-  },
-  "private": true,
-  "scripts": {
-    "start": "wrangler dev",
-    "deploy": "wrangler publish"
-  }
+    "name": "mail",
+    "version": "0.0.0",
+    "devDependencies": {
+        "wrangler": "^2.14.0"
+    },
+    "private": true,
+    "scripts": {
+        "start": "wrangler dev",
+        "deploy": "wrangler publish"
+    },
+    "license": "Unlicense",
+    "type": "module"
 }

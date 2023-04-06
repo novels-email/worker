@@ -1,5 +1,5 @@
 export default {
-  async fetch(request, env) {
-    return new Response("Hello world")
-  }
+    async fetch(request, env) {
+        return new Response("Hello world")
+    }
 }
